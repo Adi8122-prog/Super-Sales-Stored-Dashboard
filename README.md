@@ -5,24 +5,14 @@ This Power BI dashboard offers a comprehensive, interactive analysis of Super St
 
 This tool enables stakeholders to quickly identify top-performing product categories and regions, isolate underperforming areas, and analyze the impact of discounts to maximize overall profit.
 
-Tech Stack
-Component
+Component             Technology/Language
 
-Technology/Language
+Data Visualization    Power BI
 
-Data Visualization
+Data Modeling         Power Query, DAX (Data Analysis Expressions)
 
-Power BI
+Data Source           CSV (Super Store Sales Dataset)
 
-Data Modeling
-
-Power Query, DAX (Data Analysis Expressions)
-
-Data Source
-
-CSV (Super Store Sales Dataset)
-
-Data Source
 The analysis is built upon the SuperStore_Sales_Dataset.csv file, which contains detailed transaction-level data.
 
 Key data fields used for analysis include:
